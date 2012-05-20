@@ -1,0 +1,4 @@
+rails
+=====
+
+rails test
